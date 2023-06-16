@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToTipoRNotToTip</string>
+    <string name="tip_20">Пф… Проблем с кэшем нет (20%)</string>
+    <string name="tip_15">Неплохо… Неплохо… (15%)</string>
+    <string name="tip_10">Мм… Потянет… (10%)</string>
+    <string name="tip_0">Я - нищеброд! (0%)</string>
+    <string name="tip_calculate">Рассчитать</string>
+    <string name="tip_round">Округляем чаевые?</string>
+    <string name="tip_amount">Чаевые:</string>
+    <string name="tip_service">Стоимость услуги %</string>
+    <string name="tip_question">Как вам сервис?</string>
+</resources>
